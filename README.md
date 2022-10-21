@@ -1,8 +1,8 @@
-                                                   Desarrollo-Movil-Integral  
+                                                   <h1>Desarrollo-Movil-Integral<h1>
 
 
 
-                                                          CHUPETE FIRE
+                                                          <h2>CHUPETE FIRE<h2>
                                               
                                               
 El objetivo del juego es eliminar a todos los policías y liberar los cuatro edificios, cada edificio liberado por
