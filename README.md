@@ -43,4 +43,7 @@ encontrar en el suelo botiquín de primeros auxilios para curarse, y municiones 
 
 <h3>-Periodo:Septiembre-Diciembre<h3>
 
-![Uploading WhatsApp Image 2022-10-20 at 11.44.29 PM.jpeg…]()
+  
+
+![222](https://user-images.githubusercontent.com/115060320/197115173-08ed077d-ba25-42b7-96f8-d286c6c52264.jpeg)
+
