@@ -43,7 +43,7 @@ encontrar en el suelo botiquín de primeros auxilios para curarse, y municiones 
 
 <h3>-Periodo:Septiembre-Diciembre<h3>
 
-![Imagen14](https://user-images.githubusercontent.com/79536676/197109190-6171fd91-01e3-48eb-9f04-da6437a92440.png)   ![Imagen11](https://user-images.githubusercontent.com/79536676/197107745-2e04724a-b299-4f3b-9141-b73f0875c2de.jpg)   ![Imagen111](https://user-images.githubusercontent.com/79536676/197109884-31a35da9-d2f7-4779-8ab2-b34d566c2975.png)
+![Imagen14](https://user-images.githubusercontent.com/79536676/197109190-6171fd91-01e3-48eb-9f04-da6437a92440.png)       ![Imagen11](https://user-images.githubusercontent.com/79536676/197107745-2e04724a-b299-4f3b-9141-b73f0875c2de.jpg)   ![Imagen111](https://user-images.githubusercontent.com/79536676/197109884-31a35da9-d2f7-4779-8ab2-b34d566c2975.png)
 
 
 
