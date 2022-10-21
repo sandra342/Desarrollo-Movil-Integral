@@ -1,7 +1,7 @@
                                                    Desarrollo-Movil-Integral
                                                    
 
- <p align="![444](https://user-images.githubusercontent.com/115060320/197116154-3c923eee-e611-41e0-a90e-ea7e8ec3ad6a.png)"><img /></p>                                                        
+ ![444](https://user-images.githubusercontent.com/115060320/197116154-3c923eee-e611-41e0-a90e-ea7e8ec3ad6a.png)                                                       
 
 
                                                           CHUPETE FIRE                                 
@@ -49,3 +49,10 @@ encontrar en el suelo botiquín de primeros auxilios para curarse, y municiones 
 
 ![222](https://user-images.githubusercontent.com/115060320/197115173-08ed077d-ba25-42b7-96f8-d286c6c52264.jpeg)
 
+<h1>Modelo entidad relacion<h1>
+    
+![image](https://user-images.githubusercontent.com/115060320/197117808-681e418f-f08e-463f-bd42-0202c32a27f7.png)
+   
+<h1>Modelo Relacional<h1>
+  
+  ![image](https://user-images.githubusercontent.com/115060320/197118543-9ccb719f-e7dc-4871-b941-fcf30f9f642d.png)
