@@ -1,8 +1,8 @@
- <H1>Desarrollo Movil Integral<H1>      
+ <center><h1>CHUPETE FIRE<H1><center>   
  
  ![444](https://user-images.githubusercontent.com/115060320/197116154-3c923eee-e611-41e0-a90e-ea7e8ec3ad6a.png)                                                       
 
-<h1>CHUPETE FIRE<H1>                                 
+  <H1>Desarrollo Movil Integral<H1> 
                                               
 <h4>El objetivo del juego es eliminar a todos los policías y liberar los cuatro edificios, cada edificio liberado por
 chupete es una materia acreditada para poder titularse, en el primer edificio, solo se encuentran un total de 5
