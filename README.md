@@ -17,38 +17,39 @@ encontrar en el suelo botiquín de primeros auxilios para curarse, y municiones 
 
 <h1>Integrantes<h1>
 
-Adolfo Melendez Rodriguez
+<h3>Adolfo Melendez Rodriguez<h3>
 
 
-Daniel Gutierrez Melendez
+<h3>Daniel Gutierrez Melendez<h3>
 
 
-Juan Angel Cruz de la Cruz
+<h3>Juan Angel Cruz de la Cruz<h3>
 
-Sandra Garrido Garido
+<h3>Sandra Garrido Garido<h3>
 
-Claribel Trejo Ocampo 
+<h3>Claribel Trejo Ocampo<h3>
+                             
 
-Datos Academicos
-
-
-Universidad Tecnologica de Xicotepec de Jurez
+<h1>Datos Academicos<h1>
 
 
-
-Area academica:Tecnologias de la Información
-
-
-Carrera:Ingenieria en Desarrollo y Gestion de Software 
+<h3>Universidad Tecnologica de Xicotepec de Jurez<h3>
 
 
-Materia:Desarrollo Movil Multiplataforma
+
+<h3>Area academica:Tecnologias de la Información<h3>
 
 
-Docente: M.T.I Marco Antonio Ramirez Hernandez
+<h3>Carrera:Ingenieria en Desarrollo y Gestion de Software<h3>
 
 
-Periodo:Septiembre-Diciembre 
+<h3>Materia:Desarrollo Movil Multiplataforma<h3>
+
+
+<h3>Docente: M.T.I Marco Antonio Ramirez Hernandez<h3>
+
+
+<h3>Periodo:Septiembre-Diciembre<h3>
 
 ![Imagen14](https://user-images.githubusercontent.com/79536676/197109190-6171fd91-01e3-48eb-9f04-da6437a92440.png)     ![Imagen11](https://user-images.githubusercontent.com/79536676/197107745-2e04724a-b299-4f3b-9141-b73f0875c2de.jpg)               ![Imagen111](https://user-images.githubusercontent.com/79536676/197109884-31a35da9-d2f7-4779-8ab2-b34d566c2975.png)
 
