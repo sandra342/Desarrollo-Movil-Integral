@@ -1,13 +1,10 @@
-
-Fuente: https://www.iteramos.com/pregunta/30538/como-anadir-color-al-archivo-readmemd-de-github
 *<center><h1>CHUPETE FIRE<H1><center>*
  
  ![444](https://user-images.githubusercontent.com/115060320/197116154-3c923eee-e611-41e0-a90e-ea7e8ec3ad6a.png)                                                       
 
   *<H1>Desarrollo Movil Integral<H1>* 
  
- *<h1>OBJETIVO<h1>*
-                                              
+ *<h1>OBJETIVO<h1>*                                             
 <h4>El objetivo del juego es eliminar a todos los policías y liberar los cuatro edificios, cada edificio liberado por
 chupete es una materia acreditada para poder titularse, en el primer edificio, solo se encuentran un total de 5
 policías comunes y un comandante de policía, en el segundo edificio se encuentran 10 policías y 10
