@@ -1,4 +1,4 @@
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+#f03c15
 
 Fuente: https://www.iteramos.com/pregunta/30538/como-anadir-color-al-archivo-readmemd-de-github
 *<center><h1>CHUPETE FIRE<H1><center>*
