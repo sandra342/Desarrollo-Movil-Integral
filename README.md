@@ -15,7 +15,7 @@ pues los policías pueden cubrirse con las paredes de los edificios, aunque al i
 monedas por cada policía que mate, las cuales le servirán para poder comprar mejores armas, también podrá
 encontrar en el suelo botiquín de primeros auxilios para curarse, y municiones para sus ametralladoras.
 
-Integrantes
+<h1>Integrantes<h1>
 
 Adolfo Melendez Rodriguez
 
